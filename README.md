@@ -1,4 +1,4 @@
-# CMPE 493 Introduction to Information Retrieval Homework 3
+# Introduction to Information Retrieval - Homework 3
 
 Book recommendation program.
 
